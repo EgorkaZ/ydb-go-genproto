@@ -8,7 +8,7 @@ package Fq_V1
 
 import (
 	context "context"
-	Fq "github.com/ydb-platform/ydb-go-genproto/draft/protos/Fq"
+	Fq "github.com/EgorkaZ/ydb-go-genproto/draft/protos/Fq"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"
